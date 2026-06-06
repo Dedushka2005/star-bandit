@@ -1,5 +1,5 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-4021f36f77d816e476bac5bb70b5d4dc.txt:284:text/plain:1
+t:assets.txt:assets-99c20b4b772539aa96c81d534c033d66.txt:305:text/plain:1
 d:fonts:fonts:0:application/unknown:1
 t:fonts/Fixedsys.fnt:fonts/Fixedsys-6d02c12c470c3ab050eab9d35a7dd500.fnt:17410:application/unknown:1
 i:fonts/Fixedsys.png:fonts/Fixedsys-f0a4efb8a565bc54641691df1909c4ff.png:4419:image/png:1
@@ -13,6 +13,7 @@ b:fonts/PressStart2P.ttf:fonts/PressStart2P-ccb1dfce06ad3883f8e3b5ae011aa795.ttf
 d:images:images:0:application/unknown:1
 i:images/block.png:images/block-0a3effd26ca8ff30d644524fa9c98946.png:376:image/png:1
 i:images/bomb.png:images/bomb-fbbd6fad32c7d5f07260a89d107de9da.png:433:image/png:1
+i:images/explosion.png:images/explosion-9c7a7eea6f6740f178827e593021eb6d.png:38743:image/png:1
 i:images/pixel.png:images/pixel-546e99843d061595cee2426426c981c1.png:349:image/png:1
 i:images/ship.png:images/ship-8981dc5de4bab398ffc375861cc45fd5.png:914:image/png:1
 i:images/ufo.png:images/ufo-6a70890b26a88a7c2f79a13fed524263.png:685:image/png:1
